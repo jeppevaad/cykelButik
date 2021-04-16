@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zl50dLSCshMpq/5CMnFNC/tiuW/+B37UGytHitTBsgvab/4ZdeAoBIpyYxl4xBX62U7C7adsQjFwL2Y6FaidpA==",
+  "success": true,
+  "projectFilePath": "G:\\H3\\cykelButik\\cykelButik\\Cykel\\Cykel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeppe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jeppe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

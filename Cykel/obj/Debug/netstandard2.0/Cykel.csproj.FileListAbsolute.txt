@@ -1,0 +1,9 @@
+G:\H3\cykelButik\cykelButik\Cykel\bin\Debug\netstandard2.0\Cykel.deps.json
+G:\H3\cykelButik\cykelButik\Cykel\bin\Debug\netstandard2.0\Cykel.dll
+G:\H3\cykelButik\cykelButik\Cykel\bin\Debug\netstandard2.0\Cykel.pdb
+G:\H3\cykelButik\cykelButik\Cykel\obj\Debug\netstandard2.0\Cykel.csprojAssemblyReference.cache
+G:\H3\cykelButik\cykelButik\Cykel\obj\Debug\netstandard2.0\Cykel.AssemblyInfoInputs.cache
+G:\H3\cykelButik\cykelButik\Cykel\obj\Debug\netstandard2.0\Cykel.AssemblyInfo.cs
+G:\H3\cykelButik\cykelButik\Cykel\obj\Debug\netstandard2.0\Cykel.csproj.CoreCompileInputs.cache
+G:\H3\cykelButik\cykelButik\Cykel\obj\Debug\netstandard2.0\Cykel.dll
+G:\H3\cykelButik\cykelButik\Cykel\obj\Debug\netstandard2.0\Cykel.pdb
